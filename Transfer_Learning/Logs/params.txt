@@ -1,0 +1,14 @@
+First Train:
+Batch Size: 5
+Number of epoches: 5
+Learning reat: 1e-4
+Loss: 1.7281
+Accuracy Test: 36.8421%
+----------------
+Train:
+Batch Size: 5
+Number of epoches: 20
+Learning reat: 1e-4
+Loss: 0.5281
+Accuracy Test: 89.4737%
+----------------

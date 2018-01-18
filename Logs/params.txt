@@ -1,0 +1,144 @@
+First Train:
+Batch Size: 150
+Number of epoches: 1
+Learning reat: 0.0001
+Loss: 1.654978313446045
+----------------
+Train:
+Batch Size: 2500
+Number of epoches: 1
+Learning reat: 0.0001
+Loss: 1.8949384291966755
+----------------
+Train:
+Batch Size: 100
+Number of epoches: 10
+Learning reat: 0.0001
+Loss: 1.0403470057911344
+----------------
+Train:
+Batch Size: 100
+Number of epoches: 1
+Learning reat: 0.0001
+Loss: 1.6890260643429227
+----------------
+Train:
+Batch Size: 150
+Number of epoches: 1
+Learning reat: 0.0001
+Loss: 1.7452684553464253
+----------------
+Train:
+Batch Size: 150
+Number of epoches: 1
+Learning reat: 0.0001
+Loss: 1.711400716304779
+----------------
+Train:
+Batch Size: 150
+Number of epoches: 1
+Learning reat: 0.0001
+Loss: 1.7217161885897319
+----------------Train:
+Batch Size: 150
+Number of epoches: 10
+Learning reat: 0.0001
+Loss: 1.174163191318512
+----------------
+Train:
+Batch Size: 150
+Number of epoches: 50
+Learning reat: 0.0001
+Loss: 0.7136037933826447
+----------------
+Train:
+Batch Size: 150
+Number of epoches: 100
+Learning reat: 0.0001
+Loss: 0.43991965274016065
+----------------
+Train:
+Batch Size: 100
+Number of epoches: 10
+Learning reat: 0.0001
+Loss: 0.40460601720545025
+----------------
+Train:
+Batch Size: 100
+Number of epoches: 1
+Learning reat: 0.0001
+Loss: 0.4056412207418018
+----------------
+Train:
+Batch Size: 150
+Number of epoches: 1
+Learning reat: 0.0001
+Loss:
+----------------
+Train:
+Batch Size: 150
+Number of epoches: 12
+Learning reat: 0.0001
+Loss:
+----------------
+Train:
+Batch Size: 150
+Number of epoches: 12
+Learning reat: 0.0001
+Loss:
+----------------
+Train:
+Batch Size: 150
+Number of epoches: 1
+Learning reat: 0.0001
+Loss: 8.9801858429
+----------------
+Train:
+Batch Size: 50
+Number of epoches: 10
+Learning reat: 0.0001
+Loss: 8.68154783936
+----------------
+Train:
+Batch Size: 200
+Number of epoches: 5
+Learning reat: 0.0001
+Loss: 8.33001441116
+----------------
+Train:
+Batch Size: 100
+Number of epoches: 1
+Learning reat: 1e-05
+Loss: 8.15708527679
+----------------
+Train:
+Batch Size: 500
+Number of epoches: 1
+Learning reat: 0.0001
+Loss: 8.28432468796
+----------------
+Train:
+Batch Size: 50
+Number of epoches: 50
+Learning reat: 0.0001
+Loss: 5.95970167542
+----------------
+Train:
+Batch Size: 50
+Number of epoches: 50
+Learning reat: 0.0001
+----------------
+Train:
+Batch Size: 50
+Number of epoches: 10
+Learning reat: 0.0001
+----------------
+Train:
+Loss function: cross entropy
+Optimizer: adam
+Batch size: 50
+Epochs: 50
+Learning rate: 0.0001
+Drop out: 0.25
+Loss: 5.959
+
